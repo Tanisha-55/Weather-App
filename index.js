@@ -1,3 +1,5 @@
+// -----------THIS FILE IS ONLY FOR LEARNING PART-------------
+
 console.log('Hello Tanisha!');
 const API_key = '12f58fd1166be5fc552fb2ac2665269c';
 
