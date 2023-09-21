@@ -18,7 +18,7 @@ To set up and run the Weather App, follow these steps:
 2. Clone this repository to your local machine: `git clone https://github.com/yourusername/weather-app.git`
    And Navigate to the project directory: `cd weather-app`
    Then, Open the `index.html` file in a web browser.
-      # OR
+      ### OR
 5. Open my netlify website ""
 
 ## Usage
