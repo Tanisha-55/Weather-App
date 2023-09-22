@@ -19,7 +19,7 @@ To set up and run the Weather App, follow these steps:
    And Navigate to the project directory: `cd weather-app`
    Then, Open the `index.html` file in a web browser.
       ### OR
-5. Open my netlify website [Weather-App](weather-app-city-tanisha-55.netlify.app) to redirect into the web app.
+5. Open my netlify website [Weather-App](https://weather-app-city-tanisha-55.netlify.app/) to redirect into the web app.
 
 ## Usage
 
