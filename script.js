@@ -119,7 +119,6 @@ function renderWeatherInfo(weatherInfo){
     windspeed.innerText = weatherInfo?.wind?.speed;
     humidity.innerText = weatherInfo?.main?.humidity;
     clouds.innerText = weatherInfo?.clouds?.all;
-
 }
 
 //use geoLocation API
